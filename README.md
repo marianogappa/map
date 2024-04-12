@@ -1,4 +1,4 @@
-# wm
+# map
 
 CLI tool that takes `(lat,long)` markers from STDIN and opens a World Map in the browser with those markers.
 
@@ -7,19 +7,19 @@ CLI tool that takes `(lat,long)` markers from STDIN and opens a World Map in the
 ## Installation
 
 ```bash
-go install github.com/marianogappa/wm@latest
+go install github.com/marianogappa/map@latest
 ```
 
 ## Usage
 
 ```bash
-echo "52.5170365,13.3888599,Berlin" | wm -separator comma
+echo "52.5170365,13.3888599,Berlin" | map -separator comma
 ```
 
 If you don't have the coordinates, use [locator](https://github.com/marianogappa/locator)!
 
 ```bash
-$ echo "Berlin" | locator | wm
+$ echo "Berlin" | locator | map
 ```
 
 ## Notes
