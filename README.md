@@ -16,10 +16,10 @@ go install github.com/marianogappa/map@latest
 echo "52.5170365,13.3888599,Berlin" | map -separator comma
 ```
 
-If you don't have the coordinates, use [locator](https://github.com/marianogappa/locator)!
+If you don't have the coordinates, use [gps](https://github.com/marianogappa/gps)!
 
 ```bash
-$ echo "Berlin" | locator | map
+$ echo "Berlin" | gps | map
 ```
 
 ## Notes
