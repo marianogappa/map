@@ -2,7 +2,8 @@
 
 CLI tool that takes `(lat,long)` markers from STDIN and opens a World Map in the browser with those markers.
 
-<img width="1874" alt="Screenshot 2024-04-11 at 18 23 31" src="https://github.com/marianogappa/wm/assets/1078546/98b9e8f9-321b-4429-aec7-ed42fc81ce92">
+<img width="1884" alt="Screenshot 2024-04-14 at 13 30 14" src="https://github.com/marianogappa/map/assets/1078546/7dc4f4a2-91ba-42c9-b38d-0d4cec795111">
+
 
 ## Installation
 
